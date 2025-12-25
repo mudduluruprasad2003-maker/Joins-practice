@@ -1,8 +1,9 @@
 # Joins-practice
 
-Company name: CODTECH IT SOLUTIONS
-NAME: MUDDULURU LAKSHMI PRASAD
-INTERN ID: CT6MDR3078
-DOMAIN: SQL
-DURATION: 6 MONTHS
+Company Name: CODTECH IT SOLUTIONS  
+Name: Mudduluru Lakshmi Prasad  
+Intern ID: CT6MDR3078  
+Domain: SQL  
+Duration: 6 Months
+
 
